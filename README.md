@@ -23,7 +23,7 @@ O White Paper hospedado neste repositório (arquivo `PRIMEIRO WHITE PAPER - JT80
 
 Você pode ler o documento completo clicando no link abaixo:
 
-*   [**Baixar / Visualizar o White Paper (PDF)**](PRIMEIRO%20WHITE%20PAPER%20-%20JT8078-2026.pdf)
+*   [**Baixar / Visualizar o White Paper (PDF)**](PRIMEIRO%20WHITE%20PAPER%20-%20-2026.pdf)
 
 ## 🛠️ Metodologias Utilizadas
 
