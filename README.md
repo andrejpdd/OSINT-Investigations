@@ -8,7 +8,7 @@ Este repositório contém a documentação técnica de uma investigação indepe
 
 ## 📄 Sobre o Estudo de Caso
 
-O White Paper hospedado neste repositório (arquivo `PRIMEIRO WHITE PAPER - JT8078-2026.pdf`) detalha a anatomia de um estelionato digital via transferência PIX. A investigação foca em mapear a estrutura corporativa de fachada (um CNPJ MEI) utilizada para o escoamento de valores ilícitos, partindo do contato inicial via engenharia social.
+O White Paper hospedado neste repositório (arquivo `PRIMEIRO WHITE PAPER -2026.pdf`) detalha a anatomia de um estelionato digital via transferência PIX. A investigação foca em mapear a estrutura corporativa de fachada (um CNPJ MEI) utilizada para o escoamento de valores ilícitos, partindo do contato inicial via engenharia social.
 
 **Principais tópicos abordados no documento:**
 
