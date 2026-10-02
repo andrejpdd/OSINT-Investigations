@@ -21,6 +21,7 @@ O White Paper hospedado neste repositório detalha a anatomia de um estelionato 
 
 ## 📥 Como Acessar
 
+https://github.com/andrejpdd/OSINT-Investigations/blob/main/PRIMEIRO%20WHITE%20PAPER%20-%20osint%20fraud%20andre.pdf
 
 
 ## 🛠️ Metodologias Utilizadas
